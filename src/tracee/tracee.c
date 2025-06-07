@@ -33,6 +33,7 @@
 #include <errno.h>      /* E*, */
 #include <inttypes.h>   /* PRI*, */
 
+#include "mem.h"
 #include "tracee/tracee.h"
 #include "tracee/reg.h"
 #include "path/binding.h"
